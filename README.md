@@ -9,7 +9,7 @@ Analyze a retail loan data provided by 'LendingClub', a P2P online loan broker/d
 * Make reasonable adjustments to improve model performances.
 
 ### Contents (%: Time consumption)
-* Data Cleaning and Formatting (35%)
-* Data Preprocessing and Exploration (25%)
-* Feature Engineering (25%)
-* Model Training and Evaluation (15%)
+* Data Cleaning and Formatting (20%)
+* Data Preprocessing and Exploration (35%)
+* Feature Engineering (35%)
+* Model Training and Evaluation (10%)
