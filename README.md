@@ -7,6 +7,7 @@ Analyze a retail loan data provided by 'LendingClub', a P2P online loan broker/d
 * Go through all the essential steps of data analysis (cleaning, formatting, preprocessing, data exploratory, modeling, etc). 
 * Understand the data itself and the nature of business where the data was generated from. Sourse: [Credit Risk Analysis](https://www.kaggle.com/ranadeep/credit-risk-dataset)
 * Make reasonable adjustments to improve model performances.
+* Handle label classes imbalance.
 
 ### Contents (%: Time consumption)
 * Data Cleaning and Formatting (20%)
