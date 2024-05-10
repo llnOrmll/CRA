@@ -2,6 +2,8 @@
 
 This project aims to analyze retail loan data provided by 'LendingClub', a P2P online loan broker/dealer, and build a classifier to raise proper alerts on defaultable accounts in advance for risk management purposes.
 
+![cra3](https://github.com/llnOrmll/CRA/assets/32804828/24cff55e-fd74-4691-8ea4-e11e7fba45a3)
+
 ## Motivation
 
 The primary motivation behind this project is to develop a robust credit risk assessment model that can effectively identify and flag potentially defaultable accounts before they become a significant financial burden. By leveraging the power of data analysis and machine learning techniques, we aim to provide a valuable tool for risk management in the lending industry.
